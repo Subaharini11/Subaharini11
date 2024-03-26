@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Subaharini Rajendran
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning front end developing
+- 🌱 I’m currently learning front end development
 - 📫 How to reach me
 - email:@subarajendran599@gmail.com
 - linkedin:www.linkedin.com/in/subaharini-r
